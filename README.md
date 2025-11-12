@@ -134,9 +134,8 @@ wp-content-abilities/
 
 For issues or questions:
 - Create an issue on GitHub
-- Contact: Icons Event Hall
-- Website: https://iconsiouxfalls.com
-
+- Contact: 
+- Website: 
 ## License
 
 GPL v2 or later
